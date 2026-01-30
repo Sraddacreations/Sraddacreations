@@ -32,7 +32,6 @@ This GitHub is where I document what I build, improve, and learn — one small, 
 src="https://img.shields.io/github/followers/Sraddacreations?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a><a href="https://www.x.com/sradhacreations" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sradhacreations?logo=twitter&style=for-the-badge&color=ef4444&labelColor=27272a"
 /></a>
-### Badges
 
 ### Support Me
 
